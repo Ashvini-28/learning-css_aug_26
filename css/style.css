@@ -49,3 +49,10 @@ h4{
 .t_align_r{
     text-align:right;
 }
+
+.bg_image_example{
+            background-color: rgb(15, 25, 25);
+            background-image: url("images/img10.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
