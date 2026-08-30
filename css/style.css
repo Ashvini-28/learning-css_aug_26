@@ -56,3 +56,15 @@ h4{
             background-repeat: no-repeat;
             background-size: cover;
         }
+p::first-letter{
+    color: rgb(66, 77, 176);
+    font-size:40px;
+}
+p::first-line{
+    color:red;
+    
+}
+::selection{
+    color:red;
+    background-color: yellow;
+}
